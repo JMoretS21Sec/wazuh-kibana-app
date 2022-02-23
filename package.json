@@ -1,10 +1,10 @@
 {
   "name": "wazuh",
   "version": "4.3.0",
-  "revision": "4301-1",
-  "code": "4301-1",
+  "revision": "4301-rc6",
+  "code": "4301-rc6",
   "pluginPlatform": {
-    "version": "7.16.3"
+    "version": "7.17.0"
   },
   "description": "Wazuh app",
   "keywords": [
